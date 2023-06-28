@@ -4,8 +4,8 @@ Web scraping script.
 
 ## Description
 
-This is a simple scraping task for extracting forex data, parsing it to csv and saving it. 
-When automated the script checks if there are any differences and if so overwrites the csv file.
+This is a straightforward scraping task that involves extracting forex data, parsing it to CSV file, and saving it. 
+When automated, the script checks for any differences in the data and, if found, overwrites the existing CSV file.
 
 ## Dependencies
 
